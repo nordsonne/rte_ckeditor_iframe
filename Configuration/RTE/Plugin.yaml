@@ -1,0 +1,3 @@
+editor:
+  externalPlugins:
+      iframe: { resource: "EXT:rte_ckeditor/Resources/Public/JavaScript/Contrib/plugins/iframe/plugin.js" }

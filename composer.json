@@ -1,0 +1,10 @@
+{
+	"name": "svenjuergens/rte-ckeditor-iframe",
+	"type": "typo3-cms-extension",
+	"description": "TYPO3 CKEditor Rich Text Editor: Iframe",
+	"license": ["GPL-2.0-or-later"],
+	"keywords": ["TYPO3 CMS"],
+	"require": {
+		"typo3/cms-core": ">=9.5.5"
+	}
+}
